@@ -7,7 +7,6 @@ execute:
   echo: false
   eval: true
 ---
-# Regression Challenge - Linear Model Interpretability
 
 ## Question 1: Bivariate Regression (Anxiety on StressSurvey)
 
